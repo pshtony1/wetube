@@ -1,6 +1,10 @@
 # WeTube | Youtube Cloning Project
 
+`Vanilla Javascript`로 웹 앱을 만들어보며 어떤 것이 불편한지 느껴보기.
+
 Youtube Clone with `VanillaJS`, `NodeJS`, `ExpressJS`, `Pug`, `MongoDB`, `Webpack`
+
+[프로젝트 링크](https://tranquil-castle-40182.herokuapp.com/)
 
 ## Pages
 
@@ -8,9 +12,9 @@ Youtube Clone with `VanillaJS`, `NodeJS`, `ExpressJS`, `Pug`, `MongoDB`, `Webpac
 - [x] Join
 - [x] Login
 - [x] Search
-- [ ] User Detail
-- [ ] Edit Profile
-- [ ] Change Password
+- [x] User Detail
+- [x] Edit Profile
+- [x] Change Password
 - [x] Upload
 - [x] Video Detail
 - [x] Edit Video
@@ -46,22 +50,22 @@ Youtube Clone with `VanillaJS`, `NodeJS`, `ExpressJS`, `Pug`, `MongoDB`, `Webpac
   - [x] ~_Delete Video_~ **(Complete)**
   - [x] ~_Search Video Using Regular Expression_~ **(Complete)**
 
-- [ ] Study and Using **`Webpack`**
+- [x] Study and Using **`Webpack`**
 
-  - [ ] What is `Webpack`???
-  - [ ] Apply `Webpack` to Project
+  - [x] What is `Webpack`???
+  - [x] Apply `Webpack` to Project
 
-- [ ] User Authentication (maybe **`PassportJS`**)
-  - [ ] Github Login
-  - [ ] Facebook Login
-- [ ] Custom Video Player
-  - [ ] Play / Pause
-  - [ ] Mute / Unmute
-  - [ ] Fullscreen
-  - [ ] Timestamp
-  - [ ] Volume Bar
-- [ ] Video Recording
+- [x] User Authentication (maybe **`PassportJS`**)
+  - [x] Github Login
+  - [x] Facebook Login
+- [x] Custom Video Player
+  - [x] Play / Pause
+  - [x] Mute / Unmute
+  - [x] Fullscreen
+  - [x] Timestamp
+  - [x] Volume Bar
+- [x] Video Recording
 
-- [ ] Comment
+- [x] Comment
 
-- [ ] **PUBLISH!!**
+- [x] **PUBLISH!!**
